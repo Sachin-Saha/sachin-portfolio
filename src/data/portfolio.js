@@ -5,7 +5,7 @@ export const portfolioData = {
     name: "Sachin S. Saha",
     title: "MERN Stack Developer",
     bio: "Passionate full-stack developer with expertise in modern web technologies. I love creating scalable applications and bringing ideas to life through clean, efficient code.",
-    email: "sachinsaha628@gmail.com",
+    email: "sachin.saha.official@gmail.com",
     phone: "+91-8999960742",
     location: "India",
     image: "/api/placeholder/400/400" // Placeholder for profile image
