@@ -13,7 +13,7 @@ export const portfolioData = {
 
   social: {
     github: "https://github.com/Sachin-Saha",
-    linkedin: "https://linkedin.com/in/sachin-saha",
+    linkedin: "https://www.linkedin.com/in/sachin-saha-a24817290/",
     twitter: "https://twitter.com/sachinsaha628",
     portfolio: "https://sachinsaha.dev"
   },
