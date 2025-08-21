@@ -96,7 +96,7 @@ export const portfolioData = {
     {
       id: 1,
       degree: "Bachelor of Technology in Computer Science & Engineering",
-      institution: "JIT (Jhulelal Institute of Technology,Koradi Nagpur)",
+      institution: "JIT (Jhulelal Institute of Technology)",
       duration: "2022 - 2026",
       status: "Graduating in May 2026",
       gpa: "8.2/10",
